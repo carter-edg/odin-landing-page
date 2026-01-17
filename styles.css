@@ -54,7 +54,7 @@ button{
 .logo-text{
     font-size: 24px;
     color: #F9FAF8;
-    font-weight: 900;
+    font-weight: 700;
 }
 
 /* HERO*/
@@ -72,7 +72,7 @@ button{
 }
 
 .image-placeholder{
-    background-color: dimgray;
+    background-color: #6f737c;
     display: flex;
     justify-content: center;
     align-items: center;
