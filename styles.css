@@ -180,3 +180,12 @@ button{
 .signup button{
     border: 2px #F9FAF8 solid;
 }
+
+/* FOOTER */
+
+.footer{
+    padding: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
