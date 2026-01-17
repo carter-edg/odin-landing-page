@@ -1,5 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto);
 body{
     font-family: 'Roboto', sans-serif ;
+    color: #E5E7EB;
+    font-size: 18px;
 }
 
+.dark-background{
+    background-color: #1F2937;
+}
