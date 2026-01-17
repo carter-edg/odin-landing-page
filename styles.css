@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url(https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap);
 html{
     font-family: 'Roboto', sans-serif ;
     color: #E5E7EB;
@@ -93,11 +93,11 @@ button{
 /* INFORMATION */
 
 .information{
-    padding: 0px 256px;
+    padding: 48px 256px;
 }
 
 .information-header{
-    padding: 48px 0px;
+    padding-bottom: 48px;
     font-size: 36px;
     color: #1F2937;
     font-weight: 900;
@@ -131,4 +131,23 @@ button{
 .information p{
     color: #1F2937;
     font-size: 18px;
+}
+
+/* QUOTE */
+
+.quote{
+    background-color: #E5E7EB;
+    padding: 80px 256px;
+}
+.quote-text{
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 100;
+}
+.quote-attribution{
+    display: flex;
+    justify-content: flex-end;
+    color: #1F2937;
+    font-weight: 900;
+    padding-right: 100px;
 }
