@@ -152,3 +152,31 @@ button{
     font-weight: 900;
     padding-right: 100px;
 }
+
+/* SIGNUP */
+
+.signup{
+    padding: 80px 256px;
+}
+
+.signup-card{   
+    background-color: #3882F6;
+    border-radius: 8px;
+    padding: 48px 72px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.signup p{
+    margin: 4px 0px;
+}
+
+.signup strong{
+    font-size: 24px;
+}
+
+.signup button{
+    border: 2px #F9FAF8 solid;
+}
